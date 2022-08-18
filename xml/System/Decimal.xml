@@ -1445,7 +1445,7 @@
       <TypeParameters>
         <TypeParameter Name="TOther">
           <Constraints>
-            <InterfaceName>System.Numerics.INumber&lt;TOther&gt;</InterfaceName>
+            <InterfaceName>System.Numerics.INumberBase&lt;TOther&gt;</InterfaceName>
           </Constraints>
         </TypeParameter>
       </TypeParameters>
@@ -1487,7 +1487,7 @@
       <TypeParameters>
         <TypeParameter Name="TOther">
           <Constraints>
-            <InterfaceName>System.Numerics.INumber&lt;TOther&gt;</InterfaceName>
+            <InterfaceName>System.Numerics.INumberBase&lt;TOther&gt;</InterfaceName>
           </Constraints>
         </TypeParameter>
       </TypeParameters>
@@ -1529,7 +1529,7 @@
       <TypeParameters>
         <TypeParameter Name="TOther">
           <Constraints>
-            <InterfaceName>System.Numerics.INumber&lt;TOther&gt;</InterfaceName>
+            <InterfaceName>System.Numerics.INumberBase&lt;TOther&gt;</InterfaceName>
           </Constraints>
         </TypeParameter>
       </TypeParameters>
